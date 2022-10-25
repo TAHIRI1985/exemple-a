@@ -1,0 +1,47 @@
+/*@media queries///////////////////////////////////////////////////////*/
+
+@media screen and (min-width: 426px) /*and (max-width: 1500px) */{
+  nav .divbar {
+    margin: 10px 50px 10px 50px;
+    background-color: #e7d4cf;
+    
+ 
+
+
+} 
+@media screen and (min-width:1500px){
+  main video{
+
+    width:45%;
+  
+  }
+  
+}
+
+@media screen and (min-width: 700px) {
+
+nav .imgcarosel{
+
+/* width: 100%;
+
+/* object-fit: initial; */
+
+
+}
+}
+
+
+
+
+
+  /* main {
+    background-color: #fff;
+  }
+  nav.navbar {
+    background-color: bisque;
+  }
+  h5{
+    font-size: 0.5rem;
+  }
+   */
+
